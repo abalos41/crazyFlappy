@@ -1,0 +1,19 @@
+
+crowtmx.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+crow
+  rotate: false
+  xy: 1, 1
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+crow
+  rotate: false
+  xy: 73, 1
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
