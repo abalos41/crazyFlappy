@@ -1,7 +1,7 @@
 # crazyFlappy
 Juego desarollado con Java + libGDX.
 
-CrazzyFlapy es una parodia un tanto "especial" del famoso juego Flappy Bird.
+CrazyFlappy es una parodia un tanto "especial" del famoso juego Flappy Bird.
 
 Consta de 4 niveles, y cada uno mas difícil que el anterior, consiste en aguantar con vida mientras esquivas enemigos, 
 según la dificultad, el tiempo que tendras que aguantar será mayor.
