@@ -10,9 +10,11 @@ Si no te convence esta fantástica descripción, siempre puedes echar un vistazo
 
 https://www.youtube.com/watch?v=-QF498A850o
 
+![Alt text](https://i.ytimg.com/vi/j0XBZ-bkluw/hqdefault.jpg)
 
 Código libre, si quieres probar el juego entra en la carpeta jar/e inicia Jflappy-LibGDX-master.jar.
 
+Requerimientos: Java JRE 1.8
 
 
 
