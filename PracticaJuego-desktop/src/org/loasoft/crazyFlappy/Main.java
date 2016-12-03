@@ -9,7 +9,7 @@ public class Main {
 		
 
 		LwjglApplicationConfiguration cfg = new LwjglApplicationConfiguration();
-		cfg.title = "PracticaJuego";
+		cfg.title = "loasoft - crazyFlappy";
 		cfg.width = Constants.SCREEN_WIDTH;
 		cfg.height = Constants.SCREEN_HEIGHT;
 		cfg.useGL20 = true;
