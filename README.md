@@ -10,7 +10,7 @@ Si no te convence esta fantástica descripción, siempre puedes echar un vistazo
 
 https://www.youtube.com/watch?v=-QF498A850o
 
-![Alt text](https://i.ytimg.com/vi/j0XBZ-bkluw/hqdefault.jpg)
+![](https://programamos.es/web/wp-content/uploads/2016/10/flappybird.jpg)
 
 Código libre, si quieres probar el juego entra en la carpeta jar/ e inicia crazyFlappy.jar.
 
