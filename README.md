@@ -1,6 +1,6 @@
 # crazyFlappy
 
-Juego desarrollado con **Java + libGDX**.
+Juego desarrollado con **Java** + [**libGDX**](https://libgdx.com/).
 
 CrazyFlappy es una parodia un tanto "especial" del famoso juego *Flappy Bird*.
 
@@ -19,9 +19,3 @@ Si quieres probar el juego, entra en la carpeta `jar/` y ejecuta el archivo `cra
 ## Requisitos
 
 - Java Runtime Environment (JRE) 8.
-
-
-<br><br>
-
-(El código fuente está disponible en este repositorio)
-
